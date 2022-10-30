@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhtozbnm
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning Swift
 - 📫 How to reach me mhtozbnm@gmail.com
 
 <!---
