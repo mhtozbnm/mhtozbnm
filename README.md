@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhtozbnm
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning the learn
 
 <!---
 mhtozbnm/mhtozbnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
